@@ -1,0 +1,39 @@
+.test_image_and_result{
+    background-color: grey;
+    margin-top:10px;
+    margin-bottom:10px;
+    width:95%;
+    border-radius:30px;
+}
+
+img{
+    height:300px;
+    width:300px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:30px;
+}
+
+h5{
+    background-color: aqua;
+    color:darkgreen;
+    font-size:20px;
+}
+span{
+    color:darkred;
+    background-color: bisque;
+    font-weight:bold;
+}
+.mini_result{
+    color:floralwhite;
+}
+
+h4{
+    font-size:20px;
+    font-weight: bold;
+}
+
+h1{
+    color:crimson;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
